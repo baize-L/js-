@@ -1,0 +1,8 @@
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+openpyxl>=3.1,<4
+ddddocr==1.6.1
+onnxruntime==1.22.1
+
+PySide6>=6.7,<7
+pyinstaller>=6.10,<7
